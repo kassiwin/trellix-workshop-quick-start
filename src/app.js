@@ -13,7 +13,7 @@ export default class App extends Component {
     render() {
         return (
             <div className="min-h-screen min-w-screen grid place-items-center">
-                <div className="text-6xl text-center tracking-wide font-inter"> Trellix workshop quick start</div>
+                <div className="text-6xl text-center tracking-wide font-inter"> Tokpa App by Pluris</div>
             </div>
         );
     }
